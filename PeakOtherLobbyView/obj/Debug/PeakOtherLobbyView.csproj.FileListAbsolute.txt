@@ -1,0 +1,14 @@
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\obj\Debug\PeakOtherLobbyView.csproj.AssemblyReference.cache
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\obj\Debug\PeakOtherLobbyView.csproj.CoreCompileInputs.cache
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\PeakOtherLobbyView.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\PeakOtherLobbyView.pdb
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\0Harmony.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\BepInEx.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\UnityEngine.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\obj\Debug\PeakOthe.C41D7F59.Up2Date
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\obj\Debug\PeakOtherLobbyView.dll
+C:\Users\barre\source\repos\PeakOtherLobbyView\PeakOtherLobbyView\obj\Debug\PeakOtherLobbyView.pdb
